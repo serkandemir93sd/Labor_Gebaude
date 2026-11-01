@@ -10,7 +10,7 @@ public class Labor
         setGebaude("Gemeinde");
         setStock(4);
         setBeamer(true);
-        setAnzPlatze(6);
+        setAnzPlatze(7);
         
     }
     
